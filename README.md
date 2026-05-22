@@ -3,8 +3,11 @@
 • Italo Caliari Silva - RM554758 
 
 • Júlio César Ruiz Zequin - RM554676 
+
 • Danilo Gronski Wendler - RM 556602 
+
 • Pedro Henrique Muzel Santos - RM 555983 
+
 • Vitor Montemor Ismael - RM 556027 
 
 Aplicativo mobile multiplataforma (iOS/Android) de fidelização do pós-venda Ford, desenvolvido em **React Native + Expo**. Solução para o **Desafio 2 — Retenção e fidelização de clientes no pós-venda**.
