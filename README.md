@@ -63,7 +63,7 @@ A solução demonstra domínio dos conceitos trabalhados em aula:
 ## Quickstart
 
 ```bash
-git clone <(https://github.com/danilowendler/Sprint-Mobile-Ford)>
+git clone <https://github.com/danilowendler/Sprint-Mobile-Ford>
 cd Ford-Intelligence-Entrega
 npm install
 npm run start          # abre Metro; escolha a plataforma no terminal
