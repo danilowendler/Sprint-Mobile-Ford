@@ -1,6 +1,7 @@
 # Ford Intelligence — Sprint Mobile Development & IoT
 
 • Italo Caliari Silva - RM554758 
+
 • Júlio César Ruiz Zequin - RM554676 
 • Danilo Gronski Wendler - RM 556602 
 • Pedro Henrique Muzel Santos - RM 555983 
